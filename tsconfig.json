@@ -21,7 +21,7 @@
     "suppressImplicitAnyIndexErrors": true,
     "experimentalDecorators": true,
     "outDir": "./dist",
-    "ignoreDeprecations": "5.0"
+//    "ignoreDeprecations": "5.0"
   },
   "include": [
     "./src/neetcode2/**/*"
